@@ -161,10 +161,10 @@ Dashboard (KPIs & Interactive Analysis)
 ---
 # 📊 Project Highlights
 ## KPI Cards
-- Total Products – Count of active products
-- Current Stock – Total available quantity
-- Total Stock Value – Inventory valuation
-- Reorder Products – Count of items below reorder level
+- Total Products – 40
+- Current Stock – 518
+- Total Stock Value – 12.2 L
+- Reorder Products – 16
 ## Advanced Visuals
 - Category-wise product share (%)
 - Warehouse-wise product share (%)
