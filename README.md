@@ -2,19 +2,19 @@
 ---
 # Table of Contents 
 ## <a href="#-project-overview">overview</a>
-## Business Problems
-## Why this Project Stand out?
-## Dataset
-## Project Structure
-## How it works?
-## Dashboard Preview
-## Dashboard
+## <a href="#-real-world-business-problems-solved">Business Problems</a>
+## <a href="#-why-this-project-stands-out?">Why this Project Stand out?</a>
+## <a href="/main/Data">Dataset</a>
+## <a href="#-project-structure-sheets-overview">Project Structure</a>
+## <a href="">How it works?</a>
+## <a href="/main/Preview">Dashboard Preview</a>
+## <a href="/main/Dashboard">Dashboard</a>
 ## Repository Structure
-## Project Insights
-## Project Highlights
-## Tools & Skills Used
-## Helping Feedback
-## Created By
+## <a href="#-key-project-insights">Project Insights</a>
+## <a href="#-project-highlights">Project Highlights</a>
+## <a href="#-tools--skills-used">Tools & Skills Used</a>
+## <a href="#-feedback--future-improvements">Helping Feedback</a>
+## <a href="#-created-by">Created By</a>
 
 ---
 # 📌 Project Overview
@@ -71,7 +71,7 @@ Solution:
 - ➡ Reduces reporting time and human error.
 
 ---
-# 🚀 Why This Project Stands Out
+# 🚀 Why This Project Stands Out?
 - Designed with real MIS workflow logic, not just visuals but with 
 logic and data storytelling. make complex workflow to simple automation
 - Focuses on operations decision-making & key insights
