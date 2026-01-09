@@ -78,7 +78,9 @@ logic and data storytelling. make complex workflow to simple automation
 - Shows strong understanding of business processes + reporting
 
 ---
+
 # ⚙️ Repository Structure
+
 ```
 📦 Inventory-Management-Automated-Tracker-System-Excel
  ┣ 📂 Dashboard
@@ -121,7 +123,9 @@ logic and data storytelling. make complex workflow to simple automation
 - Pivot-based stock analysis
 - Color scales based analysis on quantity & reorder levels
 ---
+
 # ⚙️🔀 How it works?
+
 ```
 🔄 System Workflow (How It Works)
 Add Product / Vendor
