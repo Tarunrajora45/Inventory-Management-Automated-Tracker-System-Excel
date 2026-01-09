@@ -50,7 +50,7 @@ The goal of this project is to demonstrate practical inventory control, MIS repo
 
 ### Problem:
 - Product data, vendor data, transactions, and reports often exist in silos.
-- Solution:
+### Solution:
 - 🔗 Structured sheet flow linking:
 - 📦 Product master
 - 🤝 Vendor master
