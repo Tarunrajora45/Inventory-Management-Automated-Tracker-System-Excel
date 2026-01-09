@@ -1,4 +1,5 @@
-# Inventory-Management-Automated-Tracker-System-Excel
+# 📦🔀📊 Inventory-Management-Automated-Tracker-System-Excel
+This project is a fully automated Inventory Management System built in Microsoft Excel to ensure product tracking,status update & transactions.
 ---
 # Table of Contents 
 ## overview
@@ -19,7 +20,7 @@
 ---
 # 📌 Project Overview
 
-This project is a fully automated Inventory Management System built in Microsoft Excel, designed to track products, vendors, stock movement, reorder status, and inventory valuation through a single integrated workflow.
+This Project is designed to track products, vendors, stock movement, reorder status, and inventory valuation through a single integrated workflow.
 The system simulates a fully automated reporting setup, where raw transactional data flows through structured calculations, pivots, and conditional logic to deliver decision-ready insights via a dynamic dashboard.
 The goal of this project is to demonstrate practical inventory control, MIS reporting, and dashboard design skills commonly required in operations, supply chain, retail, and FMCG environments.
 
