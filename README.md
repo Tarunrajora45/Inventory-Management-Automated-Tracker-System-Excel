@@ -1,5 +1,6 @@
 # 📦🔀📊 Inventory-Management-Automated-Tracker-System-Excel
 ---
+# Repository Structure
 ```
 📦 Inventory-Management-Automated-Tracker-System-Excel
  ┣ 📂 Dashboard
@@ -94,7 +95,7 @@ logic and data storytelling. make complex workflow to simple automation
 - Shows strong understanding of business processes + reporting
 
 ---
-# 📂 Project Structure & how it works? (Sheets Overview)
+# 📂 Project Structure (Sheets Overview)
 
 ## 1.	Dashboard
 - Executive-level overview with KPIs, slicers, and interactive charts
