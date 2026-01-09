@@ -1,5 +1,4 @@
 # 📦🔀📊 Inventory-Management-Automated-Tracker-System-Excel
-This project is a fully automated Inventory Management System built in Microsoft Excel to ensure product tracking,status update & transactions.
 ---
 # Table of Contents 
 ## overview
