@@ -1,7 +1,7 @@
 # 📦🔀📊 Inventory-Management-Automated-Tracker-System-Excel
 ---
 # Table of Contents 
-## overview
+## <a href="#-project-overview">overview</a>
 ## Business Problems
 ## Why this Project Stand out?
 ## Dataset
