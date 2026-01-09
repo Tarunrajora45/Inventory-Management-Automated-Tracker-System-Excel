@@ -4,11 +4,12 @@
 ## <a href="#-project-overview">overview</a>
 ## <a href="#-real-world-business-problems-solved">Business Problems</a>
 ## <a href="#-why-this-project-stands-out">Why this Project Stand out?</a>
-## <a href=
-## <a href="/Data">Dataset</a>
-## <a href="#-project-structure-sheets-overview">Project Structure</a>
-## <a href="/Preview">Dashboard Preview</a>
+## <a href="#%EF%B8%8F-repository-structure">Repository Structure</a>
 ## <a href="/Dashboard">Dashboard</a>
+## <a href="/Data">Dataset</a>
+## <a href="/Preview">Dashboard Preview</a>
+## <a href="#-project-structure-sheets-overview">Project Structure</a>
+## <a href="#%EF%B8%8F-how-it-works">How it Works?</a>
 ## <a href="#-key-project-insights">Project Insights</a>
 ## <a href="#-project-highlights">Project Highlights</a>
 ## <a href="#-tools--skills-used">Tools & Skills Used</a>
