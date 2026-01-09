@@ -102,25 +102,32 @@ logic and data storytelling. make complex workflow to simple automation
 # 📂 Project Structure (Sheets Overview)
 
 ## 1.	Dashboard
+![Overall Dashboard](Preview/01_Overall%20Preview.png)
 - Executive-level overview with KPIs, slicers, and interactive charts
 ## 2.	Product Info (Product Master)
+![Product Sheet](Preview/04_Product%20Sheet.png)
 - Product ID, name, category, warehouse, reorder level, unit price
 ## 3.	Vendor Info (Vendor Master)
+![Vendor Sheet](Preview/05_Vendor%20Sheet.png)
 - Vendor details linked to purchase planning
 ## 4.	Transaction Sheet
+![Transaction Sheet](Preview/06_Transaction%20Sheet.png)
 - Opening stock
 - Stock receipt
 - Sales transaction  
 ## 5.	Inventory Sheet
+![Inventory sheet](Preview/07_Inventory%20Preview.png)
 - Current stock (auto-calculated)
 - Total stock value (auto-calculated)
 - Reorder status (Yes / No) with color highlights
 ## 6.	Purchase Sheet
+![Purchase Sheet](Preview/08_Purchase-sheet%20-Preview.png)
 - Reorder product list
 - Order date
 - Expected arrival date(auto-fill)
 - Order status: completed/pending
 ## 7.	Report Summary
+![Report Summary](Preview/09_Report-summary-Preview.png)
 - Pivot-based stock analysis
 - Color scales based analysis on quantity & reorder levels
 ---
