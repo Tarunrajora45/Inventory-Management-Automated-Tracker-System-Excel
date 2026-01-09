@@ -83,20 +83,24 @@ logic and data storytelling. make complex workflow to simple automation
 # ⚙️ Repository Structure
 
 ```
-📦 Inventory-Management-Automated-Tracker-System-Excel
+📦 Inventory-Management-System
  ┣ 📂 Dashboard
  ┃ ┗ 📊 Inventory Management System.xlsx
  ┣ 📂 Data
- ┃ ┣ 📄 Product Info..csv
- ┃ ┗ 📄 Vendor Info..csv
+ ┃ ┣ 📄 Product Info.csv
+ ┃ ┗ 📄 Vendor Info.csv
  ┣ 📂 Preview
  ┃ ┣ 🖼 01_Overall Preview.png
  ┃ ┣ 🖼 02_Category-wise Stock-Share Preview.png
  ┃ ┣ 🖼 03_No Reorder-Dynamic-Filter-Preview.png
- ┃ ┣ 🖼 04_Inventory Preview.png
- ┃ ┣ 🖼 05_Purchase-sheet -Preview.png
- ┃ ┗ 🖼 06_Report-summary-Preview.png
+ ┃ ┣ 🖼 04_Product Sheet.png
+ ┃ ┣ 🖼 05_Vendor Sheet.png
+ ┃ ┣ 🖼 06_Transaction Sheet.png
+ ┃ ┣ 🖼 07_Inventory Preview.png
+ ┃ ┣ 🖼 08_Purchase-sheet-Preview.png
+ ┃ ┗ 🖼 09_Report-summary-Preview.png
  ┗ 📄 README.md
+
 ```
 ---
 # 📂 Project Structure (Sheets Overview)
