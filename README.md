@@ -1,23 +1,5 @@
 # 📦🔀📊 Inventory-Management-Automated-Tracker-System-Excel
 ---
-# ⚙️ Repository Structure
-```
-📦 Inventory-Management-Automated-Tracker-System-Excel
- ┣ 📂 Dashboard
- ┃ ┗ 📊 Inventory Management System.xlsx
- ┣ 📂 Data
- ┃ ┣ 📄 Product Info..csv
- ┃ ┗ 📄 Vendor Info..csv
- ┣ 📂 Preview
- ┃ ┣ 🖼 01_Overall Preview.png
- ┃ ┣ 🖼 02_Category-wise Stock-Share Preview.png
- ┃ ┣ 🖼 03_No Reorder-Dynamic-Filter-Preview.png
- ┃ ┣ 🖼 04_Inventory Preview.png
- ┃ ┣ 🖼 05_Purchase-sheet -Preview.png
- ┃ ┗ 🖼 06_Report-summary-Preview.png
- ┗ 📄 README.md
-```
- ---
 # Table of Contents 
 ## <a href="#-project-overview">overview</a>
 ## <a href="#-real-world-business-problems-solved">Business Problems</a>
@@ -95,6 +77,24 @@ logic and data storytelling. make complex workflow to simple automation
 - Shows strong understanding of business processes + reporting
 
 ---
+# ⚙️ Repository Structure
+```
+📦 Inventory-Management-Automated-Tracker-System-Excel
+ ┣ 📂 Dashboard
+ ┃ ┗ 📊 Inventory Management System.xlsx
+ ┣ 📂 Data
+ ┃ ┣ 📄 Product Info..csv
+ ┃ ┗ 📄 Vendor Info..csv
+ ┣ 📂 Preview
+ ┃ ┣ 🖼 01_Overall Preview.png
+ ┃ ┣ 🖼 02_Category-wise Stock-Share Preview.png
+ ┃ ┣ 🖼 03_No Reorder-Dynamic-Filter-Preview.png
+ ┃ ┣ 🖼 04_Inventory Preview.png
+ ┃ ┣ 🖼 05_Purchase-sheet -Preview.png
+ ┃ ┗ 🖼 06_Report-summary-Preview.png
+ ┗ 📄 README.md
+```
+---
 # 📂 Project Structure (Sheets Overview)
 
 ## 1.	Dashboard
@@ -120,6 +120,7 @@ logic and data storytelling. make complex workflow to simple automation
 - Pivot-based stock analysis
 - Color scales based analysis on quantity & reorder levels
 ---
+# ⚙️🔀 How it works?
 ```
 🔄 System Workflow (How It Works)
 Add Product / Vendor
@@ -183,5 +184,5 @@ Dashboard (KPIs & Interactive Analysis)
 # 👤 Created By
 - 🙋‍♂️ Tarun Rajora
 - 📞 +91 8218228575
-- 📧 trajora106@gmail.com
-- 🔗 Linkedin
+- 📧 <a href="mailto:trajora106@gmail.com">trajora106@gmail.com</a>
+- 🔗 <a href="https://www.linkedin.com/in/tarun-rajora-1531332a1/">Linkedin</a>
