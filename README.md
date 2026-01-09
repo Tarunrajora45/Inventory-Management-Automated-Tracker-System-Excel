@@ -1,6 +1,6 @@
 # 📦🔀📊 Inventory-Management-Automated-Tracker-System-Excel
 ---
-# Repository Structure
+# ⚙️ Repository Structure
 ```
 📦 Inventory-Management-Automated-Tracker-System-Excel
  ┣ 📂 Dashboard
