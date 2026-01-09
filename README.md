@@ -1,15 +1,30 @@
 # 📦🔀📊 Inventory-Management-Automated-Tracker-System-Excel
 ---
+```
+📦 Inventory-Management-Automated-Tracker-System-Excel
+ ┣ 📂 Dashboard
+ ┃ ┗ 📊 Inventory Management System.xlsx
+ ┣ 📂 Data
+ ┃ ┣ 📄 Product Info..csv
+ ┃ ┗ 📄 Vendor Info..csv
+ ┣ 📂 Preview
+ ┃ ┣ 🖼 01_Overall Preview.png
+ ┃ ┣ 🖼 02_Category-wise Stock-Share Preview.png
+ ┃ ┣ 🖼 03_No Reorder-Dynamic-Filter-Preview.png
+ ┃ ┣ 🖼 04_Inventory Preview.png
+ ┃ ┣ 🖼 05_Purchase-sheet -Preview.png
+ ┃ ┗ 🖼 06_Report-summary-Preview.png
+ ┗ 📄 README.md
+```
+ ---
 # Table of Contents 
 ## <a href="#-project-overview">overview</a>
 ## <a href="#-real-world-business-problems-solved">Business Problems</a>
 ## <a href="#-why-this-project-stands-out?">Why this Project Stand out?</a>
 ## <a href="/Data">Dataset</a>
 ## <a href="#-project-structure-sheets-overview">Project Structure</a>
-## <a href="How it works?</a>
 ## <a href="/Preview">Dashboard Preview</a>
 ## <a href="/Dashboard">Dashboard</a>
-## Repository Structure
 ## <a href="#-key-project-insights">Project Insights</a>
 ## <a href="#-project-highlights">Project Highlights</a>
 ## <a href="#-tools--skills-used">Tools & Skills Used</a>
@@ -79,7 +94,7 @@ logic and data storytelling. make complex workflow to simple automation
 - Shows strong understanding of business processes + reporting
 
 ---
-# 📂 Project Structure (Sheets Overview)
+# 📂 Project Structure & how it works? (Sheets Overview)
 
 ## 1.	Dashboard
 - Executive-level overview with KPIs, slicers, and interactive charts
@@ -103,7 +118,6 @@ logic and data storytelling. make complex workflow to simple automation
 ## 7.	Report Summary
 - Pivot-based stock analysis
 - Color scales based analysis on quantity & reorder levels
-
 ---
 ```
 🔄 System Workflow (How It Works)
@@ -121,33 +135,14 @@ Report Summary (Color-coded Insights)
         ↓
 Dashboard (KPIs & Interactive Analysis)
 ```
-
 ---
-# Repositery structure
-```
-📦 Inventory-Management-Automated-Tracker-System-Excel
- ┣ 📂 Dashboard
- ┃ ┗ 📊 Inventory Management System.xlsx
- ┣ 📂 Data
- ┃ ┣ 📄 Product Info..csv
- ┃ ┗ 📄 Vendor Info..csv
- ┣ 📂 Preview
- ┃ ┣ 🖼 01_Overall Preview.png
- ┃ ┣ 🖼 02_Category-wise Stock-Share Preview.png
- ┃ ┣ 🖼 03_No Reorder-Dynamic-Filter-Preview.png
- ┃ ┣ 🖼 04_Inventory Preview.png
- ┃ ┣ 🖼 05_Purchase-sheet -Preview.png
- ┃ ┗ 🖼 06_Report-summary-Preview.png
- ┗ 📄 README.md
-```
 
----
 # 🔍 Key Project Insights
 - Identifies high-value inventory concentration
 - Highlights critical low-stock products instantly
 - Enables data-driven procurement decisions
 - Improves coordination between inventory & purchasing teams
-
+- 
 ---
 # 📊 Project Highlights
 ## KPI Cards
