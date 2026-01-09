@@ -7,8 +7,8 @@
 ## <a href="/Data">Dataset</a>
 ## <a href="#-project-structure-sheets-overview">Project Structure</a>
 ## <a href="">How it works?</a>
-## <a href="/main/Preview">Dashboard Preview</a>
-## <a href="/main/Dashboard">Dashboard</a>
+## <a href="/Preview">Dashboard Preview</a>
+## <a href="/Dashboard">Dashboard</a>
 ## Repository Structure
 ## <a href="#-key-project-insights">Project Insights</a>
 ## <a href="#-project-highlights">Project Highlights</a>
